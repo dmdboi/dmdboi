@@ -22,11 +22,9 @@ I build web apps and services that solve every day problems!
 ## Socials
 
 🌎 [Website](https://maxdiamond.co.uk)  
-🐦 [Twitter](https://x.com/dmdboi)
+🐦 [Twitter](https://x.com/dmdboi)  
+🧠 [Latest Blog Post](https://maxdiamond.co.uk/latest)
 
-## Latest blog posts
-
-🚧 **Coming Soon** 🚧
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dmdboi&icon=0&color=0)](https://visitcount.itsvg.in)
