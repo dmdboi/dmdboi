@@ -16,8 +16,8 @@ I build web apps and services that solve every day problems!
 
 ## Open-source Projects
 
-💰 [Finance Dashboard](https://github.com/dmdboi/FinanceDashboard) - Laravel-based tool for tracking personal finances
-🧰 [Vue 3 Boilerplate](https://github.com/dmdboi/vue-boilerplate) - Starter kit for Vue 3 featuring Auth, State, Notifications and more
+💰 [Finance Dashboard](https://github.com/dmdboi/FinanceDashboard) - Laravel-based tool for tracking personal finances. 
+🧰 [Vue 3 Boilerplate](https://github.com/dmdboi/vue-boilerplate) - Starter kit for Vue 3 featuring Auth, State, Notifications and more  
 
 ## Socials
 
