@@ -21,8 +21,9 @@ I build web apps and services that solve every day problems!
 
 ## Socials
 
-🌎 [Website](https://maxdiamond.co.uk)  
 🐦 [Twitter](https://x.com/dmdboi)  
+🌎 [Website](https://maxdiamond.co.uk)  
+📰 [RSS Feed](https://maxdiamond.co.uk/feed)  
 🧠 [Latest Blog Post](https://maxdiamond.co.uk/latest)
 
 
