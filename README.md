@@ -1,31 +1,26 @@
-💎 Hi, I'm Max!
+Multi-tasking action man.
 
-I build web apps and services that solve every day problems!
+## Building
 
-## Languages and Frameworks
-- Typescript
-- Vue 3
-- Laravel
-- Tailwind
-
-## Real world apps
-
+🌐 [Arcadia Servers](https://arcadiaservers.com) - VPS and web hosting
+🤖 [Serversinc](https://serversinc.io) - Bring-your-own Server and Application Management platform
+🎮 [FindServers](https://findservers.gg) - Minecraft Server Directory
 🚊 [Manchester Trams](https://mcrtrams.app) - Android/iOS app for the Manchester Metrolink    
-💬 [Headless Comments](https://headlesscomments.io) - API-based comments engine for websites    
-🔍 [SearchXKCD](https://searchxkcd.com) - Search engine for XKCD comics  
 
 ## Open-source Projects
 
-💰 [Finance Dashboard](https://github.com/dmdboi/FinanceDashboard) - Laravel-based tool for tracking personal finances.  
-🧰 [Vue 3 Boilerplate](https://github.com/dmdboi/vue-boilerplate) - Starter kit for Vue 3 featuring Auth, State, Notifications and more    
+[Jira MCP](https://github.com/dmdboi/jira-mcp) - Jira MCP & CLI tool
+[Opencode MCP](https://github.com/dmdboi/opencode-mcp) - Opencode MCP
+[SSH Runner](https://github.com/serversinc/ssh-runner) - Action-based SSH tasks for Laravel
+
+## Some Articles
+
+[Building an Agent Platform on Atlassian](https://maxdiamond.co.uk/blog/building-an-agent-platform-on-atlassian)
 
 ## Socials
 
 🐦 [Twitter](https://x.com/dmdboi)  
 🌎 [Website](https://maxdiamond.co.uk)  
-📰 [RSS Feed](https://maxdiamond.co.uk/feed)  
-🧠 [Latest Blog Post](https://maxdiamond.co.uk/latest)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dmdboi&icon=0&color=0)](https://visitcount.itsvg.in)
